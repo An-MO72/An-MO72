@@ -11,7 +11,7 @@
 ###
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmg1MTA2eW4weXA0anhzYnhyMHo5c2hkOW9neGlyaXhrOWxiMXkwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif">
 
-<p align="left">I'm ANNOURI Mouhssine, aka MO72. <br><br>🔭 Cybersecurity engineering student <br>📚 Currently diving into some SOC and defence concepts <br>⚡ In my free time, I love playing football and diving into challenges on HTB and TryHackMe. <br>💻 Passionate about cybersecurity. I enjoy sharing my knowledge helping and guiding others, and enhance my understanding. 🙏🏼</p>
+<p align="left">I'm ANNOURI Mouhssine, aka MO72. <br><br>🔭 Cybersecurity engineer <br>📚 Currently diving into identity and access management <br>💻 Passionate about cybersecurity. I enjoy sharing my knowledge helping and guiding others, and enhance my understanding. 🙏🏼</p>
 
 ###
 <div align="center">
